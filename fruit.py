@@ -1,5 +1,5 @@
 
-# 多分类 模型训练
+# 多分类水果模型训练
 import os
 from tqdm import tqdm
 import tensorflow as tf
