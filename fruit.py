@@ -1,6 +1,5 @@
-#训练代码
-# 训练模型
 
+# 多分类 模型训练
 import os
 from tqdm import tqdm
 import tensorflow as tf
