@@ -7,4 +7,4 @@ https://www.kaggle.com/esthersweon/identifying-fruits-in-images  并做了相应
 
 训练的数据集需要在kaggle上下载fruits-360 
 
-环境：需要提取安装v2015 win10+tenserflow+keras
+环境： win10+tenserflow+keras  (需要提取安装vs2015,有显卡的在配置相关的显卡，安装相应的tenserflow+keras环境)
