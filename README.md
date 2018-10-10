@@ -3,7 +3,7 @@ Fruit classification
 参照
 https://www.kaggle.com/esthersweon/identifying-fruits-in-images  并做了相应的改动
 
-代码train.py 模型训练  train.py 测试模型准确率代码   
+代码train.py 模型训练  test.py 测试模型准确率代码   
 
 训练的数据集需要在kaggle上下载fruits-360 
 
